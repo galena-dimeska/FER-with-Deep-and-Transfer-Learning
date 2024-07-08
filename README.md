@@ -1,6 +1,6 @@
 # Contents
 
-This repository contains the Jupyter notebook (.ipynb) for the "Deep Learning Approach for Facial Expression Recognition in Images with OCOsense Glasses-Worn Faces" project as well as the paper (.pdf) which provides a detailed explanation of the project's goals, experiments and results.
+This repository contains the Jupyter Notebook (.ipynb) for the "Deep Learning Approach for Facial Expression Recognition in Images with OCOsense Glasses-Worn Faces" project as well as the paper (.pdf) which provides a detailed explanation of the project's goals, experiments and results.
 
 # Abstract
 
