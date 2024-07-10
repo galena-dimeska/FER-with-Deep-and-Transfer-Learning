@@ -2,6 +2,9 @@
 
 This repository contains the Jupyter Notebook (.ipynb) for the "Deep Learning Approach for Facial Expression Recognition in Images with OCOsense Glasses-Worn Faces" project as well as the paper (.pdf) which provides a detailed explanation of the project's goals, experiments and results.
 
+![alien_1](https://github.com/galena-dimeska/FER-with-Deep-and-Transfer-Learning/assets/125221651/54b03fd0-79b0-411f-9b4c-50d3056445a6)
+
+
 # Abstract
 
 Deep learning is a very important type of field within the machine learning sphere that is extremely beneficial and instrumental for data science, especially where collecting, analyzing and interpreting large 
